@@ -1,5 +1,5 @@
-  # kind-multi-cluster
-  This is for creating multi-cluster environment using kind (config-files)
+  # Managing Multiple Clusters and Namespaces Like a Pro
+  This is for creating multi-cluster environment using kind(config-files) and managing multiple clusters and namespaces at once using kind cluster. This is good practice before appearing for CKA exam. it will help you to manage multiple namespaces and clusters like a GURU.
 
 1. Create three cluster of different kubernetes versions.
 
